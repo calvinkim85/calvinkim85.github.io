@@ -14,6 +14,7 @@ is crawled at its domain's root: AdMob Help, "Set up an app-ads.txt file for you
 | `https://calvinkim85.github.io/inflate-to-fill/privacy.html` | `inflate-to-fill/privacy.html` | Inflate to Fill's privacy policy (both stores, and Settings in the apps) |
 | `https://calvinkim85.github.io/inflate-to-fill/privacy-ko.html` | `inflate-to-fill/privacy-ko.html` | The same in Korean |
 | `https://calvinkim85.github.io/inflate-to-fill/support.html` | `inflate-to-fill/support.html` | Support page; also the "developer website" on both store pages |
+| `https://calvinkim85.github.io/robots.txt` | `robots.txt` | Lets every search engine read the whole site (the pages are meant to be found; nothing here is private) |
 
 Project sites keep working beside it: `calvinkim85.github.io/dusk-site/` and `/lumentor-site/` are served from
 their own repos. Don't add folders here with those names.
