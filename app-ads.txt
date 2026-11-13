@@ -1,0 +1,5 @@
+# Made by tools/release-ids.mjs from the AdMob ids in release-ids.json.
+# The line below is the form AdMob's console showed for this account on 2026-11-12
+# (AdMob > Apps > View all apps > app-ads.txt > How to set up app-ads.txt). If AdMob's line
+# ever differs, use AdMob's.
+google.com, pub-3157967057157245, DIRECT, f08c47fec0942fa0

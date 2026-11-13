@@ -1,4 +1,4 @@
-# calvinkim85.github.io: the public website for the games' store pages (staged, not published)
+# calvinkim85.github.io: the public website for the games' store pages (published 2026-11-12)
 
 A plain static GitHub Pages **user site**. It exists for one reason the project sites (like `dusk-site`,
 `lumentor-site`) can't cover: AdMob reads `app-ads.txt` only from the **root of the developer website's domain**
